@@ -1,0 +1,11 @@
+Javafx template 
+Adding the doing the TODO for price and fixing that problem
+Adding the columns to the table to populate with information
+Putting in occupancy and availability using hasguestbooking
+Creating enum for cleaning status then implementing it into the system
+Cleaning status in table changes with a choice box under room maintenance header
+Boolean for the breakfast part of the table
+Added breakfast required checkbox for checkin then changes breakfast to yes in table
+Check out changes cleaning status to dirty automatically
+Guests column in table changes to correct number when booked
+Check out button will check out the guests
